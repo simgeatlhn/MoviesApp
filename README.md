@@ -1,6 +1,6 @@
 # MoviesApp
 
-- If you want to try this project, Data should be fetched from API here. <a href="https://developers.themoviedb.org/3/getting-started/introduction">here</a>.
+- If you want to try this project, Data should be fetched from API <a href="https://developers.themoviedb.org/3/getting-started/introduction">here</a>.
 - Used table view in list screen
 - Download movie images via Kingfisher
 
